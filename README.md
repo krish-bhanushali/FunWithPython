@@ -1,3 +1,15 @@
+# New
+  Now you can download Songs from youtube to!
+
+  - Steps :
+  - do
+  - pip install -r requirements.txt
+  - Go to songList/songs.txt
+  - Add the Songs line by line
+  - Read instructions in main of main.py
+  - run main.py
+
+
 # Introduction
   Well automating email is an option which can come really handy, although we can do schedule email using Gmail itself but it can also be done using python. Well these scripts can act as an add-on to any django,flask or any service we build
 
