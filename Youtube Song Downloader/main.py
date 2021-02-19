@@ -99,7 +99,7 @@ if __name__=="__main__":
     #Enter name of songs line by line in songList/songs.txt
     #Uncomment one for required purpose
     # downloadSongFromList(songsList)
-    # downloadVideoFromList(songsList)
+    downloadVideoFromList(songsList)
 
 
     
