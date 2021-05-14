@@ -48,3 +48,25 @@ You will get your credentials from above steps then follow bellow steps
 
 # Series Info
 - This is part of FunwithpythonSeries I will be adding other things soon as I finish the documentation and testing of other fun stuff.
+
+# Contributors ✨
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <a href="https://github.com/krish-bhanushali">
+    <img src="https://github.com/krish-bhanushali.png?size=50">
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <a href="https://github.com/krish-bhanushali">
+    <img src="https://github.com/krish-bhanushali.png?size=50">
+    </a>
+    </td>
+  </tr>
+</table>
