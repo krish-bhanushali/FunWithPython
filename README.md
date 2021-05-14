@@ -64,8 +64,8 @@ Thanks goes to these wonderful people:
     </td>
   </tr>
    <tr>
-    <a href="https://github.com/krish-bhanushali">
-    <img src="https://github.com/krish-bhanushali.png?size=50">
+    <a href="https://github.com/prathimacode-hub">
+    <img src="https://github.com/prathimacode-hub.png?size=50">
     </a>
     </td>
   </tr>
